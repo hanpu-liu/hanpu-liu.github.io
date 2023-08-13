@@ -7,6 +7,7 @@ author_profile: true
 
 Hanpu Liu's full publication list can be found on <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-2488-4667&sort=date+desc">ADS</a> or <a href="https://arxiv.org/search/advanced?advanced=&terms-0-term=Hanpu+Liu&terms-0-field=author">arXiv</a>.
 
+{% comment %}
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
@@ -17,3 +18,4 @@ Hanpu Liu's full publication list can be found on <a href="https://ui.adsabs.har
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcomment %}
