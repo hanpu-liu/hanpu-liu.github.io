@@ -4,7 +4,7 @@ title: "Welcome to Hanpu's astrophysics web page!"
 excerpt: "About me"
 header:
   image: ppd.jpg
-  caption: "Artist's impression of a protoplanetary disk surrounding a young, newly forming star. Credit: NASA/JPL-Caltech"
+  caption: "Artist’s impression of a young star surrounded by a protoplanetary disk. Credit: ESO/L. Calçada"
 author_profile: true
 redirect_from: 
   - /about/
