@@ -3,9 +3,9 @@ permalink: /
 title: "Welcome to Hanpu's astrophysics web page!"
 excerpt: "About me"
 header:
-  image: image-alignment-1200x4002.jpg
-  image_description: "Artist's impression of a protoplanetary disk."
-  caption: "credit: "
+  image: FUOri.jpg
+  description: "Artist's impression of one of the two stars in the FU Orionis binary system, surrounded by an accreting disk of material."
+  caption: "credit: NASA/JPL-Caltech"
 author_profile: true
 redirect_from: 
   - /about/
