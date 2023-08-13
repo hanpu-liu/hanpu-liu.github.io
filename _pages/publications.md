@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Hanpu Liu's full publication list can be found on <a href="{{author.ads}}">ADS</a> and <a href="{{author.arxiv}}">arXiv</a>.
+Hanpu Liu's full publication list can be found on <a href="https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-2488-4667&sort=date+desc">ADS</a> or <a href="https://arxiv.org/search/advanced?advanced=&terms-0-term=Hanpu+Liu&terms-0-field=author">arXiv</a>.
 
 
 {% if author.googlescholar %}
