@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if author.arxiv %}
+  Hanpu Liu's full publication list can be found on <u><a href="{{author.ads}}">ADS</a></u> and <u><a href="{{author.arxiv}}">ArXiv</a></u>.
+{%endif %}
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
