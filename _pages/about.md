@@ -3,7 +3,7 @@ permalink: /
 title: "Welcome to Hanpu's astrophysics web page!"
 excerpt: "About me"
 header:
-  image: /images/image-alignment-1200x4002.jpg
+  image: image-alignment-1200x4002.jpg
   image_description: "Artist's impression of a protoplanetary disk."
   caption: "credit: "
 author_profile: true
