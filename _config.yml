@@ -48,7 +48,6 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : true
 search                   : true
 
 # SEO Related
@@ -86,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "student astrophysicist"
   location         : "Beijing, China"
-  employer         :
+  employer         : "Peking University"
   pubmed           : 
   googlescholar    : 
   email            : "liuhanpu@stu.pku.edu.cn"
