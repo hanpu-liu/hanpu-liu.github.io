@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hanpu Liu's CV can be found here (pdf).
+Hanpu Liu's CV can be found here ([pdf](https://hanpu-liu.github.io/files/Academic_CV.pdf)).
 
 Education
 ======
