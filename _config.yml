@@ -85,7 +85,8 @@ author:
   avatar           : "profile.png"
   bio              : "student astrophysicist"
   location         : "Beijing, China"
-  employer         : "Peking University"
+  affiliation      : "Peking University"
+  employer         :
   pubmed           : 
   googlescholar    : 
   email            : "liuhanpu@stu.pku.edu.cn"
