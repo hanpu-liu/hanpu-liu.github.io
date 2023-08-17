@@ -13,4 +13,4 @@ redirect_from:
 
 I am Hanpu Liu (刘翰溥), an undergraduate student astrophysicist.
 
-This web page is under construction! Feel free to check out my publications or contact me.
+This web page is under construction! Feel free to check out my <a href="https://hanpu-liu.github.io/publications/">publications</a>, <a href="https://hanpu-liu.github.io/cv/">CV</a> or contact me.
