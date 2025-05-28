@@ -11,6 +11,8 @@ redirect_from:
   - /about.html
 ---
 
-I am Hanpu Liu (刘翰溥), an undergraduate student astrophysicist.
+I am Hanpu Liu (刘翰溥), a graduate student in the astrophysics program at <a href="https://web.astro.princeton.edu/">Princeton University</a>.
+
+I combine analytical and numerical tools to study a wide range of topics, from the origin of Earth-like planets to the evolution of supermassive black holes. See my research page for more!
 
 This web page is under construction! Feel free to check out my <a href="https://hanpu-liu.github.io/publications/">publications</a>, <a href="https://hanpu-liu.github.io/cv/">CV</a> or contact me.
