@@ -13,4 +13,6 @@ Hanpu Liu's CV can be found here ([pdf](https://hanpu-liu.github.io/files/Academ
 
 Education
 ======
-* B.S. in Physics, Peking University, 2024 (expected)
+* Ph.D. in Astrophysics, Princeton University, 2024-current
+
+* B.S. in Physics, Peking University, 2020-2024
