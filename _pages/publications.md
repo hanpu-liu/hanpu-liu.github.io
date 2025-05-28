@@ -9,6 +9,10 @@ Hanpu Liu's full publication list can be found on <a href="https://ui.adsabs.har
 
 ## First-author papers
 
+<b>Liu, H.</b>, Inayoshi, K. 2025, PRD, 111, 043012: <a href="https://ui.adsabs.harvard.edu/abs/2025PhRvD.111d3012L/abstract" target="_blank" rel="noopener noreferrer">Gravitational wave forecasts constrained by JWST AGN observations for early massive black hole mergers</a>
+
+<b>Liu, H.</b>, Bai, X.-N. 2023, MNRAS, 526, 80: <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.526...80L/abstract" target="_blank" rel="noopener noreferrer">The dusty Rossby wave instability (DRWI): linear analysis and simulations of turbulent dust-trapping rings in protoplanetary discs</a>
+
 <b>Liu, H.</b>, Herczeg, G.J., Johnstone, D., et al. 2022, ApJ, 936, 152: <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...936..152L/abstract" target="_blank" rel="noopener noreferrer">Diagnosing FU Ori-like Sources: The Parameter Space of Viscously Heated Disks in the Optical and Near-infrared</a>
 
 {% comment %}
